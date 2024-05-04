@@ -1,0 +1,1307 @@
+{
+	"ModelProperties": [
+		{
+			"ModelName": "Water",
+			"FilePath": "water.ply",
+			"Position": [ 0.0, 0.0, 0.0 ],
+			"Rotation": [ 0.0, 0.0, 0.0 ],
+			"Scale": 10.0,
+			"bMeshLightsOn": false,
+			"bWireframeModeOn": false,
+			"bUseManualColors": false,
+			"bIsSkyBox": false,
+			"bUseTextures": false, 
+			"SceneId" : 0,
+			"TextureDetails": [
+				{
+					"bTextureBlend": false,
+					"bUseDiscardMask": false,
+					"DiscardMaskTexturePath": " ",
+					"TexturePath": "Gradients_pastles.bmp",
+					"TextureName": "Taylor"
+				}
+			]
+
+		},
+		{
+			"ModelName": "Ground",
+			"FilePath": "groundPlane.ply",
+			"Position": [ 0.0, 0.0, 0.0 ],
+			"Rotation": [ 0.0, 0.0, 0.0 ],
+			"Scale": 10.0,
+			"bMeshLightsOn": false,
+			"bWireframeModeOn": false,
+			"bUseManualColors": false,
+			"bIsSkyBox": false,
+			"bUseTextures": true, 
+			"SceneId" : 0,
+			"TextureDetails": [
+				{
+					"bTextureBlend": false,
+					"bUseDiscardMask": false,
+					"TexturePath": "Gradients_pastles.bmp",
+					"TextureName": "Taylor"
+				}
+			]
+		},
+		{
+			"ModelName": "Shark",
+			"FilePath": "Shark.ply",
+			"Position": [ 0.0, -10.0, 125.0 ],
+			"Rotation": [ -90.0, -90.0, 0.0 ],
+			"Scale": 2.0,
+					"bMeshLightsOn": false,
+			"bWireframeModeOn": false,
+			"bUseManualColors": false,
+			"bIsSkyBox": false,
+			"bUseTextures": true, 
+			"SceneId" : 0,
+			"TextureDetails": [
+				{
+					"bTextureBlend": true,
+					"bUseDiscardMask": false,
+					"TexturePath": "Shark.bmp",
+					"TextureName": "Jaws",
+					"TextureRatio": 0.3
+				},
+				{
+					"bTextureBlend": true,
+					"bUseDiscardMask": false,
+					"TexturePath": "SharkWithBlood.bmp",
+					"TextureName": "JawsBlood",
+					"TextureRatio": 0.3
+				}
+			],
+			"Color": [ 0.5, 0.5, 0.5 ]
+
+		},
+
+		{
+			"ModelName": "Boat",
+			"FilePath": "PatrolBoat.ply",
+			"Position": [ -90.0, -5.0, 45.0 ],
+			"Rotation": [ 0.0, 90.0, 90.0 ],
+			"Scale": 2.20,
+					"bMeshLightsOn": false,
+			"bWireframeModeOn": false,
+			"bUseManualColors": false,
+			"bIsSkyBox": false,
+			"bUseTextures": true, 
+			"SceneId" : 0,
+			"TextureDetails": [
+				{
+					"bTextureBlend": false,
+					"bUseDiscardMask": false,
+					"DiscardMaskTexturePath": " ",
+					"TexturePath": "Boat.bmp",
+					"TextureName": "Boat"
+				}
+			],
+			"Color": [ 0.5, 0.5, 0.5 ]
+
+		},
+
+		{
+			"ModelName": "island1",
+			"FilePath": "island.ply",
+			"Position": [ -90.0, -1.0, 13.0 ],
+			"Rotation": [ 0.0, 0.0, 0.0 ],
+			"Scale": 7.0,
+					"bMeshLightsOn": false,
+			"bWireframeModeOn": false,
+			"bUseManualColors": false,
+			"bIsSkyBox": false,
+			"bUseTextures": true, 
+			"SceneId" : 0,
+			"TextureDetails": [
+				{
+					"bTextureBlend": false,
+					"bUseDiscardMask": false,
+					"DiscardMaskTexturePath": " ",
+					"TexturePath": "Gradients_pastles.bmp",
+					"TextureName": "Jaws"
+				}
+			],
+			"Color": [ 0.5, 0.5, 0.5 ]
+
+		},
+
+
+		{
+			"ModelName": "island2",
+			"FilePath": "island.ply",
+			"Position": [ -60.0, 0.0, 0.0 ],
+			"Rotation": [ 0.0, 0.0, 0.0 ],
+			"Scale": 6.0,
+					"bMeshLightsOn": false,
+			"bWireframeModeOn": false,
+			"bUseManualColors": false,
+			"bIsSkyBox": false,
+			"bUseTextures": true, 
+			"SceneId" : 0,
+			"TextureDetails": [
+				{
+					"bTextureBlend": false,
+					"bUseDiscardMask": false,
+					"DiscardMaskTexturePath": " ",
+					"TexturePath": "Gradients_pastles.bmp",
+					"TextureName": "Taylor"
+				}
+			],
+			"Color": [ 0.5, 0.5, 0.5 ]
+
+		},
+
+		{
+			"ModelName": "island2_1",
+			"FilePath": "island.ply",
+			"Position": [ -60.0, 0.0, 0.0 ],
+			"Rotation": [ 0.0, 0.0, 0.0 ],
+			"Scale": 6.0,
+					"bMeshLightsOn": false,
+			"bWireframeModeOn": false,
+			"bUseManualColors": false,
+			"bIsSkyBox": false,
+			"bUseTextures": true,
+			"SceneId" : 0,
+			"TextureDetails": [
+				{
+					"bTextureBlend": false,
+					"bUseDiscardMask": false,
+					"DiscardMaskTexturePath": " ",
+					"TexturePath": "Gradients_pastles.bmp",
+					"TextureName": "Taylor"
+				}
+			],
+			"Color": [ 0.5, 0.5, 0.5 ]
+
+		},
+
+
+		{
+			"ModelName": "island3",
+			"FilePath": "island.ply",
+			"Position": [ -90.0, 0.0, 50.0 ],
+			"Rotation": [ 0.0, 0.0, 0.0 ],
+			"Scale": 6.0,
+					"bMeshLightsOn": false,
+			"bWireframeModeOn": false,
+			"bUseManualColors": false,
+			"bIsSkyBox": false,
+			"bUseTextures": true, 
+			"SceneId" : 0,
+			"TextureDetails": [
+				{
+					"bTextureBlend": false,
+					"bUseDiscardMask": false,
+					"DiscardMaskTexturePath": " ",
+					"TexturePath": "Gradients_pastles.bmp",
+					"TextureName": "Taylor"
+				}
+			],
+			"Color": [ 0.5, 0.5, 0.5 ]
+
+		},
+
+		{
+			"ModelName": "island4",
+			"FilePath": "island.ply",
+			"Position": [ -55.0, 0.0, 50.0 ],
+			"Rotation": [ 0.0, 0.0, 0.0 ],
+			"Scale": 6.0,
+					"bMeshLightsOn": false,
+			"bWireframeModeOn": false,
+			"bUseManualColors": false,
+			"bIsSkyBox": false,
+			"bUseTextures": true, 
+			"SceneId" : 0,
+			"TextureDetails": [
+				{
+					"bTextureBlend": false,
+					"bUseDiscardMask": false,
+					"DiscardMaskTexturePath": " ",
+					"TexturePath": "Gradients_pastles.bmp",
+					"TextureName": "Taylor"
+				}
+			],
+			"Color": [ 0.5, 0.5, 0.5 ]
+
+		},
+
+		{
+			"ModelName": "island5",
+			"FilePath": "island.ply",
+			"Position": [ -20.0, 0.0, 50.0 ],
+			"Rotation": [ 0.0, 0.0, 0.0 ],
+			"Scale": 6.0,
+					"bMeshLightsOn": false,
+			"bWireframeModeOn": false,
+			"bUseManualColors": false,
+			"bIsSkyBox": false,
+			"bUseTextures": true, 
+			"SceneId" : 0,
+			"TextureDetails": [
+				{
+					"bTextureBlend": false,
+					"bUseDiscardMask": false,
+					"DiscardMaskTexturePath": " ",
+					"TexturePath": "Gradients_pastles.bmp",
+					"TextureName": "Taylor"
+				}
+			],
+			"Color": [ 0.5, 0.5, 0.5 ]
+
+		},
+
+		{
+			"ModelName": "island6",
+			"FilePath": "island.ply",
+			"Position": [ 10.0, 0.0, 30.0 ],
+			"Rotation": [ 0.0, 0.0, 0.0 ],
+			"Scale": 6.0,
+					"bMeshLightsOn": false,
+			"bWireframeModeOn": false,
+			"bUseManualColors": false,
+			"bIsSkyBox": false,
+			"bUseTextures": true, 
+			"SceneId" : 0,
+			"TextureDetails": [
+				{
+					"bTextureBlend": false,
+					"bUseDiscardMask": false,
+					"DiscardMaskTexturePath": " ",
+					"TexturePath": "Gradients_pastles.bmp",
+					"TextureName": "Taylor"
+				}
+			],
+			"Color": [ 0.5, 0.5, 0.5 ]
+
+		},
+		{
+			"ModelName": "WoodenBridge1",
+			"FilePath": "4xWoodenBridge.ply",
+			"Position": [ -55.0, 0.0, 20.0 ],
+			"Rotation": [ 0.0, 0.0, 0.0 ],
+			"Scale": 6.0,
+			"bMeshLightsOn": false,
+			"bWireframeModeOn": false,
+			"bUseManualColors": false,
+			"bIsSkyBox": false,
+			"bUseTextures": true, 
+			"SceneId" : 0,
+			"TextureDetails": [
+				{
+					"bTextureBlend": false,
+					"bUseDiscardMask": false,
+					"DiscardMaskTexturePath": " ",
+					"TexturePath": "Gradients_pastles.bmp",
+					"TextureName": "Taylor"
+				}
+			]
+		},
+		{
+			"ModelName": "WoodenBridge2",
+			"FilePath": "4xWoodenBridge.ply",
+			"Position": [ -20.0, 0.0, 10.0 ],
+			"Rotation": [ 0.0, 0.0, 0.0 ],
+			"Scale": 6.0,
+					"bMeshLightsOn": false,
+			"bWireframeModeOn": false,
+			"bUseManualColors": false,
+			"bIsSkyBox": false,
+			"bUseTextures": true, 
+			"SceneId" : 0,
+			"TextureDetails": [
+				{
+					"bTextureBlend": false,
+					"bUseDiscardMask": false,
+					"DiscardMaskTexturePath": "",
+					"TexturePath": "Gradients_pastles.bmp",
+					"TextureName": "Taylor"
+				}
+			],
+			"Color": [ 0.5, 0.5, 0.5 ]
+
+		},
+
+		{
+			"ModelName": "WoodenBridge3",
+			"FilePath": "4xWoodenBridge.ply",
+			"Position": [ -10.0, 0.0, 77.0 ],
+			"Rotation": [ 0.0, 90.0, 0.0 ],
+			"Scale": 6.0,
+					"bMeshLightsOn": false,
+			"bWireframeModeOn": false,
+			"bUseManualColors": false,
+			"bIsSkyBox": false,
+			"bUseTextures": true, 
+			"SceneId" : 0,
+			"TextureDetails": [
+				{
+					"bTextureBlend": false,
+					"bUseDiscardMask": false,
+					"DiscardMaskTexturePath": "",
+					"TexturePath": "Gradients_pastles.bmp",
+					"TextureName": "Taylor"
+				}
+			],
+			"Color": [ 0.5, 0.5, 0.5 ]
+
+		},
+
+		{
+			"ModelName": "WoodenBridge4",
+			"FilePath": "4xWoodenBridge.ply",
+			"Position": [ 25.0, 0.0, -5.0 ],
+			"Rotation": [ 0.0, 0.0, 0.0 ],
+			"Scale": 6.0,
+					"bMeshLightsOn": false,
+			"bWireframeModeOn": false,
+			"bUseManualColors": false,
+			"bIsSkyBox": false,
+			"bUseTextures": true, 
+			"SceneId" : 0,
+			"TextureDetails": [
+				{
+					"bTextureBlend": false,
+					"bUseDiscardMask": false,
+					"DiscardMaskTexturePath": "",
+					"TexturePath": "Gradients_pastles.bmp",
+					"TextureName": "Taylor"
+				}
+			],
+			"Color": [ 0.5, 0.5, 0.5 ]
+
+		},
+
+
+		{
+			"ModelName": "2x1WoodenPath1",
+			"FilePath": "2x1WoodenPath.ply",
+			"Position": [ -20.0, 0.0, 63.0 ],
+			"Rotation": [ 0.0, 0.0, 0.0 ],
+			"Scale": 6.0,
+					"bMeshLightsOn": false,
+			"bWireframeModeOn": false,
+			"bUseManualColors": false,
+			"bIsSkyBox": false,
+			"bUseTextures": true, 
+			"SceneId" : 0,
+			"TextureDetails": [
+				{
+					"bTextureBlend": false,
+					"bUseDiscardMask": false,
+					"DiscardMaskTexturePath": "",
+					"TexturePath": "Gradients_pastles.bmp",
+					"TextureName": "Taylor"
+				}
+			],
+			"Color": [ 0.5, 0.5, 0.5 ]
+		},
+
+
+		{
+			"ModelName": "2x1WoodenPath2",
+			"FilePath": "2x1WoodenStairs.ply",
+			"Position": [ -65.0, 0.0, 66.0 ],
+			"Rotation": [ 0.0, 90.0, 0.0 ],
+			"Scale": 6.0,
+					"bMeshLightsOn": false,
+			"bWireframeModeOn": false,
+			"bUseManualColors": false,
+			"bIsSkyBox": false,
+			"bUseTextures": true, 
+			"SceneId" : 0,
+			"TextureDetails": [
+				{
+					"bTextureBlend": false,
+					"bUseDiscardMask": false,
+					"DiscardMaskTexturePath": "",
+					"TexturePath": "Gradients_pastles.bmp",
+					"TextureName": "Taylor"
+				}
+			],
+			"Color": [ 0.5, 0.5, 0.5 ]
+
+		},
+
+		{
+			"ModelName": "2x1WoodenPath3",
+			"FilePath": "2x1WoodenStairs.ply",
+			"Position": [ -6.0, 0.0, 73.0 ],
+			"Rotation": [ 0.0, 90.0, 0.0 ],
+			"Scale": 6.0,
+					"bMeshLightsOn": false,
+			"bWireframeModeOn": false,
+			"bUseManualColors": false,
+			"bIsSkyBox": false,
+			"bUseTextures": true, 
+			"SceneId" : 0,
+			"TextureDetails": [
+				{
+					"bTextureBlend": false,
+					"bUseDiscardMask": false,
+					"DiscardMaskTexturePath": "",
+					"TexturePath": "Gradients_pastles.bmp",
+					"TextureName": "Taylor"
+				}
+			],
+			"Color": [ 0.5, 0.5, 0.5 ]
+
+		},
+
+
+
+		{
+			"ModelName": "1x1WoodenStairs1",
+			"FilePath": "1x1WoodenStairs.ply",
+			"Position": [ -10.0, 0.0, 65.0 ],
+			"Rotation": [ 0.0, 90.0, 0.0 ],
+			"Scale": 6.0,
+					"bMeshLightsOn": false,
+			"bWireframeModeOn": false,
+			"bUseManualColors": false,
+			"bIsSkyBox": false,
+			"bUseTextures": true, 
+			"SceneId" : 0,
+			"TextureDetails": [
+				{
+					"bTextureBlend": false,
+					"bUseDiscardMask": false,
+					"DiscardMaskTexturePath": "",
+					"TexturePath": "Gradients_pastles.bmp",
+					"TextureName": "Taylor"
+				}
+			],
+			"Color": [ 0.5, 0.5, 0.5 ]
+		},
+
+
+		{
+			"ModelName": "1x1WoodenStairs2",
+			"FilePath": "1x1WoodenStairs.ply",
+			"Position": [ -15.0, 0.0, 36.0 ],
+			"Rotation": [ 0.0, 180.0, 0.0 ],
+			"Scale": 6.0,
+					"bMeshLightsOn": false,
+			"bWireframeModeOn": false,
+			"bUseManualColors": false,
+			"bIsSkyBox": false,
+			"bUseTextures": true, 
+			"SceneId" : 0,
+			"TextureDetails": [
+				{
+					"bTextureBlend": false,
+					"bUseDiscardMask": false,
+					"DiscardMaskTexturePath": "",
+					"TexturePath": "Gradients_pastles.bmp",
+					"TextureName": "Taylor"
+				}
+			],
+			"Color": [ 0.5, 0.5, 0.5 ]
+		},
+
+		{
+			"ModelName": "1x1WoodenStairs3",
+			"FilePath": "1x1WoodenStairs.ply",
+			"Position": [ 33.0, 0.0, 5.0 ],
+			"Rotation": [ 0.0, 90.0, 0.0 ],
+			"Scale": 6.0,
+					"bMeshLightsOn": false,
+			"bWireframeModeOn": false,
+			"bUseManualColors": false,
+			"bIsSkyBox": false,
+			"bUseTextures": true, 
+			"SceneId" : 0,
+			"TextureDetails": [
+				{
+					"bTextureBlend": false,
+					"bUseDiscardMask": false,
+					"DiscardMaskTexturePath": "",
+					"TexturePath": "Gradients_pastles.bmp",
+					"TextureName": "Taylor"
+				}
+			],
+			"Color": [ 0.5, 0.5, 0.5 ]
+		},
+
+		{
+			"ModelName": "1x1WoodenPath1",
+			"FilePath": "1x1WoodenPath.ply",
+			"Position": [ -90.0, 0.0, -11.0 ],
+			"Rotation": [ 0.0, 0.0, 0.0 ],
+			"Scale": 6.0,
+					"bMeshLightsOn": false,
+			"bWireframeModeOn": false,
+			"bUseManualColors": false,
+			"bIsSkyBox": false,
+			"bUseTextures": true, 
+			"SceneId" : 0,
+			"TextureDetails": [
+				{
+					"bTextureBlend": false,
+					"bUseDiscardMask": false,
+					"DiscardMaskTexturePath": "",
+					"TexturePath": "Gradients_pastles.bmp",
+					"TextureName": "Taylor"
+				}
+			],
+			"Color": [ 0.5, 0.5, 0.5 ]
+		},
+
+		{
+			"ModelName": "1x1WoodenPath2",
+			"FilePath": "1x1WoodenPath.ply",
+			"Position": [ -57.0, -5.0, -2.0 ],
+			"Rotation": [ 0.0, 0.0, 0.0 ],
+			"Scale": 6.0,
+					"bMeshLightsOn": false,
+			"bWireframeModeOn": false,
+			"bUseManualColors": false,
+			"bIsSkyBox": false,
+			"bUseTextures": true, 
+			"SceneId" : 0,
+			"TextureDetails": [
+				{
+					"bTextureBlend": false,
+					"bUseDiscardMask": false,
+					"DiscardMaskTexturePath": "",
+					"TexturePath": "Gradients_pastles.bmp",
+					"TextureName": "Taylor"
+				}
+			],
+			"Color": [ 0.5, 0.5, 0.5 ]
+		},
+
+		{
+			"ModelName": "1x1WoodenPath3",
+			"FilePath": "1x1WoodenPath.ply",
+			"Position": [ 12.0, -5.0, -4.0 ],
+			"Rotation": [ 0.0, 0.0, 0.0 ],
+			"Scale": 6.0,
+					"bMeshLightsOn": false,
+			"bWireframeModeOn": false,
+			"bUseManualColors": false,
+			"bIsSkyBox": false,
+			"bUseTextures": true, 
+			"SceneId" : 0,
+			"TextureDetails": [
+				{
+					"bTextureBlend": false,
+					"bUseDiscardMask": false,
+					"DiscardMaskTexturePath": "",
+					"TexturePath": "Gradients_pastles.bmp",
+					"TextureName": "Taylor"
+				}
+			],
+			"Color": [ 0.5, 0.5, 0.5 ]
+		},
+
+		{
+			"ModelName": "1x1WoodenPath4",
+			"FilePath": "1x1WoodenPath.ply",
+			"Position": [ -5.0, 0.0, 0.0 ],
+			"Rotation": [ 0.0, 0.0, 0.0 ],
+			"Scale": 6.0,
+					"bMeshLightsOn": false,
+			"bWireframeModeOn": false,
+			"bUseManualColors": false,
+			"bIsSkyBox": false,
+			"bUseTextures": true, 
+			"SceneId" : 0,
+			"TextureDetails": [
+				{
+					"bTextureBlend": false,
+					"bUseDiscardMask": false,
+					"DiscardMaskTexturePath": "",
+					"TexturePath": "Gradients_pastles.bmp",
+					"TextureName": "Taylor"
+				}
+			],
+			"Color": [ 0.5, 0.5, 0.5 ]
+		},
+
+		{
+			"ModelName": "1x1WoodenPath5",
+			"FilePath": "1x1WoodenPath.ply",
+			"Position": [ -30.0, -5.0, 55.0 ],
+			"Rotation": [ 0.0, 0.0, 0.0 ],
+			"Scale": 6.0,
+					"bMeshLightsOn": false,
+			"bWireframeModeOn": false,
+			"bUseManualColors": false,
+			"bIsSkyBox": false,
+			"bUseTextures": true, 
+			"SceneId" : 0,
+			"TextureDetails": [
+				{
+					"bTextureBlend": false,
+					"bUseDiscardMask": false,
+					"DiscardMaskTexturePath": "",
+					"TexturePath": "Gradients_pastles.bmp",
+					"TextureName": "Taylor"
+				}
+			],
+			"Color": [ 0.5, 0.5, 0.5 ]
+		},
+
+		{
+			"ModelName": "House1_1",
+			"FilePath": "House1.ply",
+			"Position": [ -40.0, 0.0, 33.0 ],
+			"Rotation": [ 0.0, 270.0, 0.0 ],
+			"Scale": 6.0,
+					"bMeshLightsOn": false,
+			"bWireframeModeOn": false,
+			"bUseManualColors": false,
+			"bIsSkyBox": false,
+			"bUseTextures": true, 
+			"SceneId" : 0,
+			"TextureDetails": [
+				{
+					"bTextureBlend": false,
+					"bUseDiscardMask": false,
+					"DiscardMaskTexturePath": "",
+					"TexturePath": "Gradients_pastles.bmp",
+					"TextureName": "Taylor"
+				}
+			],
+			"Color": [ 0.5, 0.5, 0.5 ]
+		},
+
+		{
+			"ModelName": "House1_2",
+			"FilePath": "House1.ply",
+			"Position": [ -53.0, 0.0, 62.0 ],
+			"Rotation": [ 0.0, 180.0, 0.0 ],
+			"Scale": 6.0,
+					"bMeshLightsOn": false,
+			"bWireframeModeOn": false,
+			"bUseManualColors": false,
+			"bIsSkyBox": false,
+			"bUseTextures": true, 
+			"SceneId" : 0,
+			"TextureDetails": [
+				{
+					"bTextureBlend": false,
+					"bUseDiscardMask": false,
+					"DiscardMaskTexturePath": "",
+					"TexturePath": "Gradients_pastles.bmp",
+					"TextureName": "Taylor"
+				}
+			],
+			"Color": [ 0.5, 0.5, 0.5 ]
+		},
+
+
+		{
+			"ModelName": "House2",
+			"FilePath": "House2.ply",
+			"Position": [ -95.0, 0.0, 54.0 ],
+			"Rotation": [ 0.0, 90.0, 0.0 ],
+			"Scale": 6.0,
+					"bMeshLightsOn": false,
+			"bWireframeModeOn": false,
+			"bUseManualColors": false,
+			"bIsSkyBox": false,
+			"bUseTextures": true, 
+			"SceneId" : 0,
+			"TextureDetails": [
+				{
+					"bTextureBlend": false,
+					"bUseDiscardMask": false,
+					"DiscardMaskTexturePath": "",
+					"TexturePath": "Gradients_pastles.bmp",
+					"TextureName": "Taylor"
+				}
+			],
+			"Color": [ 0.5, 0.5, 0.5 ]
+		},
+
+		{
+			"ModelName": "House3",
+			"FilePath": "House3.ply",
+			"Position": [ -26.0, 0.0, 0.0 ],
+			"Rotation": [ 0.0, 0.0, 0.0 ],
+			"Scale": 6.0,
+					"bMeshLightsOn": false,
+			"bWireframeModeOn": false,
+			"bUseManualColors": false,
+			"bIsSkyBox": false,
+			"bUseTextures": true, 
+			"SceneId" : 0,
+			"TextureDetails": [
+				{
+					"bTextureBlend": false,
+					"bUseDiscardMask": false,
+					"DiscardMaskTexturePath": "",
+					"TexturePath": "Gradients_pastles.bmp",
+					"TextureName": "Taylor"
+				}
+			],
+			"Color": [ 0.5, 0.5, 0.5 ]
+		},
+
+		{
+			"ModelName": "House4",
+			"FilePath": "House4.ply",
+			"Position": [ 35.0, 0.0, 38.0 ],
+			"Rotation": [ 0.0, 180.0, 0.0 ],
+			"Scale": 6.0,
+					"bMeshLightsOn": false,
+			"bWireframeModeOn": false,
+			"bUseManualColors": false,
+			"bIsSkyBox": false,
+			"bUseTextures": true, 
+			"SceneId" : 0,
+			"TextureDetails": [
+				{
+					"bTextureBlend": false,
+					"bUseDiscardMask": false,
+					"DiscardMaskTexturePath": "",
+					"TexturePath": "Gradients_pastles.bmp",
+					"TextureName": "Taylor"
+				}
+			],
+			"Color": [ 0.5, 0.5, 0.5 ]
+		},
+
+
+		{
+			"ModelName": "House1_3",
+			"FilePath": "House1.ply",
+			"Position": [ 17.0, 0.0, 1.0 ],
+			"Rotation": [ 0.0, 90.0, 0.0 ],
+			"Scale": 6.0,
+					"bMeshLightsOn": false,
+			"bWireframeModeOn": false,
+			"bUseManualColors": false,
+			"bIsSkyBox": false,
+			"bUseTextures": true, 
+			"SceneId" : 0,
+			"TextureDetails": [
+				{
+					"bTextureBlend": false,
+					"bUseDiscardMask": false,
+					"DiscardMaskTexturePath": "",
+					"TexturePath": "Gradients_pastles.bmp",
+					"TextureName": "Taylor"
+				}
+			],
+			"Color": [ 0.5, 0.5, 0.5 ]
+		},
+
+		{
+			"bIsSkyBox": false,
+					"bMeshLightsOn": false,
+			"bUseManualColors": false,
+			"bUseTextures": true, 
+			"SceneId" : 0,
+			"bWireframeModeOn": false,
+			"Color": [ 0.5, 0.5, 0.5 ],
+			"FilePath": "Tree.ply",
+			"ModelName": "Tree1",
+			"Position": [ 35.0, 0.0, 73.0 ],
+			"Rotation": [ 0.0, 0.0, 0.0 ],
+			"Scale": 5.0,
+			"TextureDetails": [
+				{
+					"bTextureBlend": false,
+					"bUseDiscardMask": false,
+					"DiscardMaskTexturePath": "",
+					"TexturePath": "Gradients_pastles.bmp",
+					"TextureName": "Taylor"
+				}
+			]
+		},
+
+		{
+			"ModelName": "Tree2",
+			"FilePath": "Tree.ply",
+			"Position": [ 64.0, 0.0, 53.0 ],
+			"Rotation": [ 0.0, 0.0, 0.0 ],
+			"Scale": 5.0,
+					"bMeshLightsOn": false,
+			"bWireframeModeOn": false,
+			"bUseManualColors": false,
+			"bIsSkyBox": false,
+			"bUseTextures": true, 
+			"SceneId" : 0,
+			"TextureDetails": [
+				{
+					"bTextureBlend": false,
+					"bUseDiscardMask": false,
+					"DiscardMaskTexturePath": "",
+					"TexturePath": "Gradients_pastles.bmp",
+					"TextureName": "Taylor"
+				}
+			],
+			"Color": [ 0.5, 0.5, 0.5 ]
+		},
+
+		{
+			"ModelName": "Tree3",
+			"FilePath": "Tree.ply",
+			"Position": [ 64.0, 0.0, 42.0 ],
+			"Rotation": [ 0.0, 0.0, 0.0 ],
+			"Scale": 5.0,
+					"bMeshLightsOn": false,
+			"bWireframeModeOn": false,
+			"bUseManualColors": false,
+			"bIsSkyBox": false,
+			"bUseTextures": true, 
+			"SceneId" : 0,
+			"TextureDetails": [
+				{
+					"bTextureBlend": false,
+					"bUseDiscardMask": false,
+					"DiscardMaskTexturePath": " ",
+					"TexturePath": "Gradients_pastles.bmp",
+					"TextureName": "Taylor"
+				}
+			],
+			"Color": [ 0.5, 0.5, 0.5 ]
+		},
+
+		{
+			"ModelName": "Tree4",
+			"FilePath": "Tree.ply",
+			"Position": [ 64.0, 0.0, 42.0 ],
+			"Rotation": [ 0.0, 0.0, 0.0 ],
+			"Scale": 5.0,
+					"bMeshLightsOn": false,
+			"bWireframeModeOn": false,
+			"bUseManualColors": false,
+			"bIsSkyBox": false,
+			"bUseTextures": true, 
+			"SceneId" : 0,
+			"TextureDetails": [
+				{
+					"bTextureBlend": false,
+					"bUseDiscardMask": false,
+					"DiscardMaskTexturePath": " ",
+					"TexturePath": "Gradients_pastles.bmp",
+					"TextureName": "Taylor"
+				}
+			],
+			"Color": [ 0.5, 0.5, 0.5 ]
+		},
+
+		{
+			"ModelName": "Tree5",
+			"FilePath": "Tree.ply",
+			"Position": [ 0.0, 0.0, 61.0 ],
+			"Rotation": [ 0.0, 0.0, 0.0 ],
+			"Scale": 5.0,
+					"bMeshLightsOn": false,
+			"bWireframeModeOn": false,
+			"bUseManualColors": false,
+			"bIsSkyBox": false,
+			"bUseTextures": true, 
+			"SceneId" : 0,
+			"TextureDetails": [
+				{
+					"bTextureBlend": false,
+					"bUseDiscardMask": false,
+					"DiscardMaskTexturePath": " ",
+					"TexturePath": "Gradients_pastles.bmp",
+					"TextureName": "Taylor"
+				}
+			],
+			"Color": [ 0.5, 0.5, 0.5 ]
+		},
+
+		{
+			"ModelName": "Tree6",
+			"FilePath": "Tree.ply",
+			"Position": [ -43, 0.0, 36.0 ],
+			"Rotation": [ 0.0, 0.0, 0.0 ],
+			"Scale": 5.0,
+			"bMeshLightsOn": false,
+			"bWireframeModeOn": false,
+			"bUseManualColors": false,
+			"bIsSkyBox": false,
+			"bUseTextures": true, 
+			"SceneId" : 0,
+			"TextureDetails": [
+				{
+					"bTextureBlend": false,
+					"bUseDiscardMask": false,
+					"DiscardMaskTexturePath": " ",
+					"TexturePath": "Gradients_pastles.bmp",
+					"TextureName": "Taylor"
+				}
+			],
+			"Color": [ 0.5, 0.5, 0.5 ]
+		},
+
+		{
+			"ModelName": "Tree6",
+			"FilePath": "Tree.ply",
+			"Position": [ -43, 0.0, 22.0 ],
+			"Rotation": [ 0.0, 0.0, 0.0 ],
+			"Scale": 5.0,
+			"bMeshLightsOn": false,
+			"bWireframeModeOn": false,
+			"bUseManualColors": false,
+			"bIsSkyBox": false,
+			"bUseTextures": true, 
+			"SceneId" : 0,
+			"TextureDetails": [
+				{
+					"bTextureBlend": false,
+					"bUseDiscardMask": false,
+					"DiscardMaskTexturePath": " ",
+					"TexturePath": "Gradients_pastles.bmp",
+					"TextureName": "Taylor"
+				}
+			],
+			"Color": [ 0.5, 0.5, 0.5 ]
+		},
+
+		{
+			"ModelName": "Tree7",
+			"FilePath": "Tree.ply",
+			"Position": [ -43, 0.0, 22.0 ],
+			"Rotation": [ 0.0, 0.0, 0.0 ],
+			"Scale": 5.0,
+			"bMeshLightsOn": false,
+			"bWireframeModeOn": false,
+			"bUseManualColors": false,
+			"bIsSkyBox": false,
+			"bUseTextures": true, 
+			"SceneId" : 0,
+			"TextureDetails": [
+				{
+					"bTextureBlend": false,
+					"bUseDiscardMask": false,
+					"DiscardMaskTexturePath": " ",
+					"TexturePath": "Gradients_pastles.bmp",
+					"TextureName": "Taylor"
+				}
+			],
+			"Color": [ 0.5, 0.5, 0.5 ]
+		},
+
+		{
+			"ModelName": "Tree8",
+			"FilePath": "Tree.ply",
+			"Position": [ -35, 0.0, 61.0 ],
+			"Rotation": [ 0.0, 0.0, 0.0 ],
+			"Scale": 5.0,
+			"bMeshLightsOn": false,
+			"bWireframeModeOn": false,
+			"bUseManualColors": false,
+			"bIsSkyBox": false,
+			"bUseTextures": true, 
+			"SceneId" : 0,
+			"TextureDetails": [
+				{
+					"bTextureBlend": false,
+					"bUseDiscardMask": false,
+					"DiscardMaskTexturePath": " ",
+					"TexturePath": "Gradients_pastles.bmp",
+					"TextureName": "Taylor"
+				}
+			],
+			"Color": [ 0.5, 0.5, 0.5 ]
+		},
+
+
+		{
+			"ModelName": "Tree9",
+			"FilePath": "Tree.ply",
+			"Position": [ -44, 0.0, 73.0 ],
+			"Rotation": [ 0.0, 0.0, 0.0 ],
+			"Scale": 5.0,
+			"bMeshLightsOn": false,
+			"bWireframeModeOn": false,
+			"bUseManualColors": false,
+			"bIsSkyBox": false,
+			"bUseTextures": true, 
+			"SceneId" : 0,
+			"TextureDetails": [
+				{
+					"bTextureBlend": false,
+					"bUseDiscardMask": false,
+					"DiscardMaskTexturePath": " ",
+					"TexturePath": "Gradients_pastles.bmp",
+					"TextureName": "Taylor"
+				}
+			],
+			"Color": [ 0.5, 0.5, 0.5 ]
+		},
+
+
+		{
+			"ModelName": "Lighthouse",
+			"FilePath": "LightHouse.ply",
+			"Position": [ 75, 8.0, 70.0 ],
+			"Rotation": [ 270.0, 0.0, 0.0 ],
+			"Scale": 14.0,
+			"bMeshLightsOn": false,
+			"bWireframeModeOn": false,
+			"bUseManualColors": false,
+			"bIsSkyBox": false,
+			"bUseTextures": true, 
+			"SceneId" : 0,
+			"TextureDetails": [
+				{
+					"bTextureBlend": true,
+					"bUseDiscardMask": false,
+					"TexturePath": "LightHouseTextures.bmp",
+					"TextureName": "Lighthouse",
+					"TextureRatio": 0.3
+				},
+				{
+					"bTextureBlend": true,
+					"bUseDiscardMask": false,
+					"DiscardMaskTexturePath": " ",
+					"TexturePath": "LightHoustTextureWithDirt.bmp",
+					"TextureName": "LightHouseDirt",
+					"TextureRatio": 0.7
+				}
+			]
+		},
+
+		{
+			"ModelName": "LightHouseIsland",
+			"FilePath": "LightHouseIsland.ply",
+			"Position": [ 75, 5.0, 70.0 ],
+			"Rotation": [ 0.0, 0.0, 0.0 ],
+			"Scale": 5.0,
+			"bMeshLightsOn": false,
+			"bWireframeModeOn": false,
+			"bUseManualColors": false,
+			"bIsSkyBox": false,
+			"bUseTextures": true, 
+			"SceneId" : 0,
+			"TextureDetails": [
+				{
+					"bTextureBlend": false,
+					"bUseDiscardMask": false,
+					"DiscardMaskTexturePath": " ",
+					"TexturePath": "LighHouseIsland.bmp",
+					"TextureName": "Island"
+				}
+			],
+			"Color": [ 0.5, 0.5, 0.5 ]
+		},
+
+		{
+			"ModelName": "AbandonedRocks",
+			"FilePath": "AbandonedRocks.ply",
+			"Position": [ -32, -12.0, -58.0 ],
+			"Rotation": [ 0.0, 240.0, 0.0 ],
+			"Scale": 5.0,
+			"bMeshLightsOn": false,
+			"bWireframeModeOn": false,
+			"bUseManualColors": false,
+			"bIsSkyBox": false,
+			"bUseTextures": true, 
+			"SceneId" : 0,
+			"TextureDetails": [
+				{
+					"bTextureBlend": true,
+					"bUseDiscardMask": false,
+					"TexturePath": "Rocks1Color.bmp",
+					"TextureName": "Rocks",
+					"TextureRatio": 0.3
+				},
+				{
+					"bTextureBlend": true,
+					"bUseDiscardMask": false,
+					"DiscardMaskTexturePath": " ",
+					"TexturePath": "Rocks1WithMossColor.bmp",
+					"TextureName": "RocksMoss",
+					"TextureRatio": 0.7
+				}
+			]
+		},
+		{
+			"ModelName": "Moon",
+			"FilePath": "UV_Sphere_Cylindrical_UIV_Projection_.ply",
+			"Position": [ -500, 500.0, -1500.0 ],
+			"Rotation": [ 0.0, 0.0, 0.0 ],
+			"Scale": 100.0,
+			"bMeshLightsOn": true,
+			"bWireframeModeOn": false,
+			"bUseManualColors": false,
+			"bIsSkyBox": false,
+			"bUseTextures": true, 
+			"SceneId" : 0,
+			"TextureDetails": [
+				{
+					"bTextureBlend": false,
+					"bUseDiscardMask": false,
+					"TexturePath": "lroc_color_poles_4k.bmp",
+					"TextureName": "MoonTexture"
+				}
+			]
+		},
+		{
+			"ModelName": "Sphere_01",
+			"FilePath": "Sphere_1_unit_Radius_uv.ply",
+			"Position": [ 0.0, 0.0, 0.0 ],
+			"Rotation": [ 0.0, 0.0, 0.0 ],
+			"Scale": 10.0,
+			"bMeshLightsOn": false,
+			"bWireframeModeOn": false,
+			"bUseManualColors": true,
+			"bUseTextures": false,
+			"bIsSkyBox": true,
+			"Color": [ 0.5, 0.5, 0.5 ]
+		}
+	],
+	"CubeMapProperties": {
+		"MapName": "NightSky",
+		"MapTexturePath": { 
+			"LeftTexture": "SpaceBox_left2_negX.bmp",
+			"RightTexture":"SpaceBox_right1_posX.bmp",
+			"TopTexture": "SpaceBox_top3_posY.bmp",
+			"DownTexture": "SpaceBox_bottom4_negY.bmp",
+			"FrontTexture": "SpaceBox_front5_posZ.bmp", 
+			"BackTexture": "SpaceBox_back6_negZ.bmp"
+		}
+	},
+	"LightProperties": [
+		{
+			"LightId": 0,
+			"bLightOn": true,
+			"LightType": 0.0,
+			"LinearAttenuation": 0.03,
+			"QuadraticAttenuation": 0.0,
+			"InnerAngle": 0.50,
+			"OuterAngle": 1.0,
+			"LightPosition": [ 0.0, 91.0, 1.0 ],
+			"LightDirection": [ 0.0, -1.0, 0.0 ],
+			"LightColor": [ 1.0, 1.0, 0.5 ]
+		},
+
+		{
+			"LightId": 1,
+			"bLightOn": true,
+			"LightType": 0.0,
+			"LinearAttenuation": 0.33,
+			"QuadraticAttenuation": 0.0,
+			"InnerAngle": 0.50,
+			"OuterAngle": 1.0,
+			"LightPosition": [ 13.0, -7.0, 121.0 ],
+			"LightDirection": [ 0.0, -1.0, 0.0 ],
+			"LightColor": [ 0.0, 0.5, 1.0 ]
+		},
+
+
+
+		{
+			"LightId": 2,
+			"bLightOn": true,
+			"LightType": 0.0,
+			"LinearAttenuation": 0.3,
+			"QuadraticAttenuation": 0.0,
+			"InnerAngle": 0.50,
+			"OuterAngle": 1.0,
+			"LightPosition": [ -15.0, -45.0, 0.0 ],
+			"LightDirection": [ 0.0, -1.0, 0.0 ],
+			"LightColor": [ 0.0, 0.5, 1.0 ]
+		},
+
+
+
+		{
+			"LightId": 3,
+			"bLightOn": true,
+			"LightType": 0.0,
+			"LinearAttenuation": 0.65,
+			"QuadraticAttenuation": 0.0,
+			"InnerAngle": 0.50,
+			"OuterAngle": 1.0,
+			"LightPosition": [ -64.0, 11.0, 8.0 ],
+			"LightDirection": [ 0.0, -1.0, 0.0 ],
+			"LightColor": [ 0.0, 0.5, 1.0 ]
+		},
+
+		{
+			"LightId": 4,
+			"bLightOn": true,
+			"LightType": 0.0,
+			"LinearAttenuation": 0.65,
+			"QuadraticAttenuation": 0.0,
+			"InnerAngle": 0.50,
+			"OuterAngle": 1.0,
+			"LightPosition": [ -33.0, 10.0, 5.0 ],
+			"LightDirection": [ 0.0, -1.0, 0.0 ],
+			"LightColor": [ 0.0, 0.5, 1.0 ]
+		},
+
+		{
+			"LightId": 5,
+			"bLightOn": true,
+			"LightType": 0.0,
+			"LinearAttenuation": 0.65,
+			"QuadraticAttenuation": 0.0,
+			"InnerAngle": 0.50,
+			"OuterAngle": 1.0,
+			"LightPosition": [ -30.0, 10.0, 38.0 ],
+			"LightDirection": [ 0.0, -1.0, 0.0 ],
+			"LightColor": [ 0.0, 0.5, 1.0 ]
+		},
+
+
+		{
+			"LightId": 6,
+			"bLightOn": true,
+			"LightType": 0.0,
+			"LinearAttenuation": 0.65,
+			"QuadraticAttenuation": 0.0,
+			"InnerAngle": 0.50,
+			"OuterAngle": 1.0,
+			"LightPosition": [ -59.0, 10.0, 43.0 ],
+			"LightDirection": [ 0.0, -1.0, 0.0 ],
+			"LightColor": [ 0.0, 0.5, 1.0 ]
+		},
+
+		{
+			"LightId": 7,
+			"bLightOn": true,
+			"LightType": 0.0,
+			"LinearAttenuation": 0.65,
+			"QuadraticAttenuation": 0.0,
+			"InnerAngle": 0.50,
+			"OuterAngle": 1.0,
+			"LightPosition": [ 11.0, 10.0, 33.0 ],
+			"LightDirection": [ 0.0, -1.0, 0.0 ],
+			"LightColor": [ 0.0, 0.5, 1.0 ]
+		},
+
+
+		{
+			"LightId": 8,
+			"bLightOn": true,
+			"LightType": 0.0,
+			"LinearAttenuation": 0.65,
+			"QuadraticAttenuation": 0.0,
+			"InnerAngle": 0.50,
+			"OuterAngle": 1.0,
+			"LightPosition": [ 40.0, 10.0, 26.0 ],
+			"LightDirection": [ 0.0, -1.0, 0.0 ],
+			"LightColor": [ 0.0, 0.5, 1.0 ]
+		},
+
+
+		{
+			"LightId": 9,
+			"bLightOn": true,
+			"LightType": 0.0,
+			"LinearAttenuation": 0.9,
+			"QuadraticAttenuation": 0.0,
+			"InnerAngle": 0.50,
+			"OuterAngle": 1.0,
+			"LightPosition": [ -100.0, 30.0, -10.0 ],
+			"LightDirection": [ 0.0, -1.0, 0.0 ],
+			"LightColor": [ 0.0, 0.5, 1.0 ]
+		}
+
+
+	]
+}
